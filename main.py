@@ -12,3 +12,5 @@ def sample_function():
     print("Sorted array is:", arr)
 
 sample_function()
+
+
